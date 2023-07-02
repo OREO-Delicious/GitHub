@@ -1,0 +1,7 @@
+//out:spp.css
+body{
+    color:red;
+    h1{
+        font-size: 10px;
+    }
+}
